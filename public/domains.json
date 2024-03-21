@@ -1,0 +1,63 @@
+[
+    {
+      "domainName": "example.com",
+      "price": 19.99,
+      "expiryDate": "2024-10-15",
+      "description": "Popular domain name for various uses. Suitable for businesses, personal blogs, or online portfolios. Grab it before it's gone!"
+    },
+    {
+      "domainName": "yourwebsite.net",
+      "price": 29.99,
+      "expiryDate": "2024-08-20",
+      "description": "A versatile domain name perfect for creating your own website. Ideal for startups, freelancers, and small businesses looking to establish an online presence."
+    },
+    {
+      "domainName": "bestproducts.org",
+      "price": 39.99,
+      "expiryDate": "2024-11-30",
+      "description": "An excellent choice for an e-commerce site selling top-quality products. This domain name exudes reliability and trustworthiness, making it ideal for online retailers."
+    },
+    {
+      "domainName": "techhub.info",
+      "price": 24.99,
+      "expiryDate": "2024-09-25",
+      "description": "The go-to domain for technology enthusiasts and professionals. Create a tech blog, forum, or resource hub. Stay updated with the latest trends and developments in the tech world."
+    },
+    {
+      "domainName": "designerportfolio.biz",
+      "price": 34.99,
+      "expiryDate": "2024-07-12",
+      "description": "Perfect for showcasing your design portfolio. Whether you're a graphic designer, web developer, or UX/UI designer, this domain will help you attract clients and showcase your work."
+    },
+    {
+      "domainName": "healthyliving.co",
+      "price": 49.99,
+      "expiryDate": "2024-12-05",
+      "description": "Promote wellness and healthy living with this domain. Ideal for fitness coaches, nutritionists, and health bloggers. Inspire others to lead a balanced and active lifestyle."
+    },
+    {
+      "domainName": "travelersguide.xyz",
+      "price": 44.99,
+      "expiryDate": "2024-06-18",
+      "description": "For the wanderlust souls seeking adventure. Create a travel blog, guide, or community. Share your experiences, tips, and recommendations with fellow travelers."
+    },
+    {
+      "domainName": "foodiebloggers.club",
+      "price": 29.99,
+      "expiryDate": "2024-09-10",
+      "description": "Join a community of food enthusiasts with this domain. Share recipes, reviews, and culinary experiences. Connect with fellow foodies and explore the world of gastronomy."
+    },
+    {
+      "domainName": "virtualassistantpros.co",
+      "price": 39.99,
+      "expiryDate": "2024-11-22",
+      "description": "For professionals offering virtual assistant services. Establish your online presence and attract clients looking for administrative support. Make your mark in the virtual workforce."
+    },
+    {
+      "domainName": "gamingcentral.io",
+      "price": 54.99,
+      "expiryDate": "2024-10-08",
+      "description": "The ultimate domain for gaming enthusiasts. Build a gaming community, blog, or news portal. Stay updated with the latest gaming trends, releases, and esports events."
+    }
+  ]
+  
